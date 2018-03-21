@@ -7,6 +7,7 @@ def main():
     names.append(name)
     for name in names:
         print(name)
+        print('hoeren')
 
 if __name__ == "__main__":
 
